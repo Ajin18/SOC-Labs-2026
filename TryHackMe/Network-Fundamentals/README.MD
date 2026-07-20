@@ -4,7 +4,7 @@
 TryHackMe
 
 ## Date
-19 July 2026
+20 July 2026
 
 ## Objective
 Learn the fundamentals of computer networking, including how devices communicate over a network and the basic protocols used in cybersecurity.
