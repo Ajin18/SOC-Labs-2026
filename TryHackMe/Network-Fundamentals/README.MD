@@ -59,11 +59,6 @@ Learn the fundamentals of computer networking, including how devices communicate
 | IMAP | 143 |
 | RDP | 3389 |
 
-## Screenshots
-
-Add your important screenshots here.
-
-![Room Completion](images/completion.png)
 
 ## Conclusion
 
