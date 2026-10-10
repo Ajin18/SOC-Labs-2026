@@ -34,7 +34,7 @@ This section documents my practical learning activities on LetsDefend, with a fo
 - Phishing investigation
 - Security event analysis
 
-[Explore LetsDefend Labs](./Letsdefend/)
+[Explore LetsDefend Labs](./LetsDefend/)
 
 ### 3. Blue Team Labs Online
 
