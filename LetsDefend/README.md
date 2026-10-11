@@ -1,4 +1,4 @@
-# LetsDefend SOC Labs
+# LetsDefend Labs
 
 ## About
 
