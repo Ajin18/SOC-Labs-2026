@@ -45,7 +45,5 @@ The investigation focused on:
 * Email analysis is an important skill for SOC analysts investigating phishing alerts.
 * Proper investigation and documentation help support security incident response.
 
-##
 
-![Completed](completed.png)
 
